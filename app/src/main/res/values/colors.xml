@@ -1,0 +1,7 @@
+<resources>
+    <color name="background">#12121a</color>
+    <color name="dark_button">#181c1f</color>
+    <color name="blue_button">#394472</color>
+    <color name="purple_button">#613a4d</color>
+    <color name="green_button">#25501a</color>
+</resources>

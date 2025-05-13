@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">YourAppName</string>
+    <string name="history">History</string>
+    <string name="AC">AC</string>
+    <string name="Add">+</string>
+    <string name="Minus">-</string>
+    <string name="brackets">( )</string>
+    <string name="Percent">%</string>
+    <string name="Division">÷</string>
+    <string name="Multiplication">×</string>
+    <string name="Equal">=</string>
+    <string name="Back">⌫</string>
+    <string name="Comma">.</string>
+    <string name="Sqrt">√</string>
+    <string name="Factorial">!</string>
+    <string name="Pi">π</string>
+    <string name="Degree">^</string>
+    <string name="Null">0</string>
+    <string name="One">1</string>
+    <string name="Two">2</string>
+    <string name="Three">3</string>
+    <string name="Four">4</string>
+    <string name="Five">5</string>
+    <string name="Six">6</string>
+    <string name="Seven">7</string>
+    <string name="Eight">8</string>
+    <string name="Nine">9</string>
+</resources>
