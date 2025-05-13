@@ -4,8 +4,6 @@
 
 ## Скриншоты
 
-## Скриншоты
-
 <table style="width:100%">
   <tr>
     <td style="text-align: center; vertical-align: top; width: 33%;">
