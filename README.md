@@ -4,25 +4,11 @@
 
 ## Скриншоты
 
-<table style="width:100%">
-  <tr>
-    <td style="text-align: center; vertical-align: top; width: 33%;">
-      <img src="1.png" alt="Пример сложного вычисления" style="width:250px; max-width:100%;">
-      <br>
-      <em>Экран калькулятора с вычислением выражения: `100÷√4×(2+1)!`</em>
-    </td>
-    <td style="text-align: center; vertical-align: top; width: 33%;">
-      <img src="2.png" alt="Вычисление с десятичными числами и п" style="width:250px; max-width:100%;">
-      <br>
-      <em>Экран калькулятора с вычислением выражения: `3.5×2.2-(π+22)`</em>
-    </td>
-    <td style="text-align: center; vertical-align: top; width: 33%;">
-      <img src="3.png" alt="Диалог истории вычислений" style="width:250px; max-width:100%;">
-      <br>
-      <em>Диалог истории вычислений</em>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="Photo/1.png" alt="Скриншот 1" width="300"/>
+  <img src="Photo/2.png" alt="Скриншот 2" width="300"/>
+  <img src="Photo/3.png" alt="Скриншот 3" width="300"/>
+</p>
 
 ## Функционал
 
