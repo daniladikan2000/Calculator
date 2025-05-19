@@ -5,9 +5,9 @@
 ## Скриншоты
 
 <p align="center">
-  <img src="Photo/1.png" alt="Скриншот 1" width="300"/>
-  <img src="Photo/2.png" alt="Скриншот 2" width="300"/>
-  <img src="Photo/3.png" alt="Скриншот 3" width="300"/>
+  <img src="1.png" alt="Скриншот 1" width="300"/>
+  <img src="2.png" alt="Скриншот 2" width="300"/>
+  <img src="3.png" alt="Скриншот 3" width="300"/>
 </p>
 
 ## Функционал
