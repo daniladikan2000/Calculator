@@ -3,9 +3,9 @@
 A functional and user-friendly calculator app for Android, built with Java. Supports standard arithmetic, several scientific operations, real-time expression preview, and history management.
 
 <p align="center">
-  <img src="1.png" alt="Screenshot 1" width="300"/>
-  <img src="2.png" alt="Screenshot 2" width="300"/>
-  <img src="3.png" alt="Screenshot 3" width="300"/>
+  <img src="1.png" alt="Screenshot 1" width="200"/>
+  <img src="2.png" alt="Screenshot 2" width="200"/>
+  <img src="3.png" alt="Screenshot 3" width="200"/>
 </p>
 
 ## 🚀 Features
