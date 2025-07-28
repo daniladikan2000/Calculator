@@ -8,7 +8,7 @@ A functional and user-friendly calculator app for Android, built with Java. Supp
   <img src="3.png" alt="Screenshot 3" width="200"/>
 </p>
 
-## 🚀 Features
+## Features
 
 * **Basic operations:**
   ➕ Addition, ➖ Subtraction, ✖ Multiplication, ➗ Division
@@ -24,7 +24,7 @@ A functional and user-friendly calculator app for Android, built with Java. Supp
 * **Full-screen UI**
 * **Error messages** for invalid input
 
-## 🛠 Tech Stack
+## Tech Stack
 
 * **Language:** Java
 * **Platform:** Android
@@ -32,7 +32,7 @@ A functional and user-friendly calculator app for Android, built with Java. Supp
 * **Parser:** Custom recursive expression evaluator
 * **Custom component:** `AutoResizeTextView` for responsive text scaling
 
-## 📦 Getting Started
+## Getting Started
 
 ```bash
 git clone https://github.com/daniladikan2000/Calculator.git
